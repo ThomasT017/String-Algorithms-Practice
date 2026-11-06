@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringPractice",
+      "request": "launch",
+      "mainClass": "com.csplusplus.StringPractice",
+      "projectName": "StringAlgorithmsPractice"
+    },
+    {
+      "type": "java",
       "name": "Run StringPractice",
       "request": "launch",
       "mainClass": "com.csplusplus.StringPractice",
